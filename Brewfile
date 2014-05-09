@@ -55,6 +55,7 @@ install tree
 install webkit2png
 install xpdf
 install zopfli
+install mp4box
 
 install homebrew/versions/lua52
 
